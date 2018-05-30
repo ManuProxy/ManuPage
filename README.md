@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## ShadowProxy
 
-You can use the [editor on GitHub](https://github.com/ManuProxy/ManuPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ ![image](https://raw.githubusercontent.com/MinusPlusDD/rocket.github.io/master/icon.png)
+ 
+ 
+ShadowProxy is a Smart Stable Quick ProxyUtil
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can add proxy configarations via scan qrCode or manuly by your self
 
-```markdown
-Syntax highlighted code block
+Now enjoy it
 
-# Header 1
-## Header 2
-### Header 3
+[Download](https://itunes.apple.com/cn/app/id1336538100?mt=8)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManuProxy/ManuPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Support Email
+mggsc6sm022a@sina.com
